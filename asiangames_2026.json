@@ -1,0 +1,235 @@
+{
+  "updatedAt": "2026-09-28",
+  "format": "8개국 2개조 싱글 라운드로빈(Bo3) → 4강(Bo3) · 동메달 결정전(Bo5) · 결승(Bo5)",
+  "teams": [
+    {
+      "code": "KOR",
+      "name": "대한민국",
+      "group": "B",
+      "players": [
+        "Zeus",
+        "Canyon",
+        "Zeka",
+        "Faker",
+        "Gumayusi",
+        "Keria"
+      ],
+      "rating": 1514
+    },
+    {
+      "code": "VIE",
+      "name": "베트남",
+      "group": "A",
+      "players": [
+        "Kiaya",
+        "Pun",
+        "Hizto",
+        "Dire",
+        "Eddie",
+        "Taki"
+      ],
+      "rating": 1339
+    },
+    {
+      "code": "SAU",
+      "name": "사우디아라비아",
+      "group": "A"
+    },
+    {
+      "code": "MYS",
+      "name": "말레이시아",
+      "group": "A"
+    },
+    {
+      "code": "TPE",
+      "name": "중화 타이베이",
+      "group": "B",
+      "players": [
+        "1Jiang",
+        "JunJia",
+        "HongQ",
+        "Doggo",
+        "ShiauC",
+        "Woody"
+      ],
+      "rating": 1237
+    },
+    {
+      "code": "HKG",
+      "name": "홍콩",
+      "group": "B"
+    },
+    {
+      "code": "IND",
+      "name": "인도",
+      "group": "B"
+    },
+    {
+      "code": "UAE",
+      "name": "아랍에미리트",
+      "group": "A"
+    }
+  ],
+  "groups": {
+    "A": {
+      "matches": [
+        {
+          "id": "A1",
+          "a": "VIE",
+          "b": "SAU",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "A2",
+          "a": "VIE",
+          "b": "MYS",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "A3",
+          "a": "VIE",
+          "b": "UAE",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "A4",
+          "a": "SAU",
+          "b": "MYS",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "A5",
+          "a": "SAU",
+          "b": "UAE",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "A6",
+          "a": "MYS",
+          "b": "UAE",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        }
+      ]
+    },
+    "B": {
+      "matches": [
+        {
+          "id": "B1",
+          "a": "KOR",
+          "b": "TPE",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "B2",
+          "a": "KOR",
+          "b": "HKG",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "B3",
+          "a": "KOR",
+          "b": "IND",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "B4",
+          "a": "TPE",
+          "b": "HKG",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "B5",
+          "a": "TPE",
+          "b": "IND",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        },
+        {
+          "id": "B6",
+          "a": "HKG",
+          "b": "IND",
+          "format": "Bo3",
+          "scoreA": null,
+          "scoreB": null
+        }
+      ]
+    }
+  },
+  "knockout": {
+    "matches": [
+      {
+        "id": "SF1",
+        "a": null,
+        "b": null,
+        "format": "Bo3",
+        "prev": {
+          "a": "A:1",
+          "b": "B:2"
+        },
+        "winner": null,
+        "scoreA": null,
+        "scoreB": null
+      },
+      {
+        "id": "SF2",
+        "a": null,
+        "b": null,
+        "format": "Bo3",
+        "prev": {
+          "a": "B:1",
+          "b": "A:2"
+        },
+        "winner": null,
+        "scoreA": null,
+        "scoreB": null
+      },
+      {
+        "id": "FINAL",
+        "a": null,
+        "b": null,
+        "format": "Bo5",
+        "prev": {
+          "a": "SF1:W",
+          "b": "SF2:W"
+        },
+        "winner": null,
+        "scoreA": null,
+        "scoreB": null
+      },
+      {
+        "id": "BRONZE",
+        "a": null,
+        "b": null,
+        "format": "Bo5",
+        "prev": {
+          "a": "SF1:L",
+          "b": "SF2:L"
+        },
+        "winner": null,
+        "scoreA": null,
+        "scoreB": null
+      }
+    ]
+  }
+}
