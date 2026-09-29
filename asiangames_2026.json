@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-28",
-  "format": "8개국 2개조 싱글 라운드로빈(Bo3) → 4강(Bo3) · 동메달 결정전(Bo5) · 결승(Bo5)",
+  "format": "8개국 2개조 싱글 라운드로빈(Bo1) → 4강(Bo3) · 동메달 결정전(Bo5) · 결승(Bo5)",
   "teams": [
     {
       "code": "KOR",
@@ -77,7 +77,7 @@
           "id": "A1",
           "a": "VIE",
           "b": "SAU",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -85,7 +85,7 @@
           "id": "A2",
           "a": "VIE",
           "b": "MYS",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -93,7 +93,7 @@
           "id": "A3",
           "a": "VIE",
           "b": "UAE",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -101,7 +101,7 @@
           "id": "A4",
           "a": "SAU",
           "b": "MYS",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -109,7 +109,7 @@
           "id": "A5",
           "a": "SAU",
           "b": "UAE",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -117,7 +117,7 @@
           "id": "A6",
           "a": "MYS",
           "b": "UAE",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         }
@@ -129,7 +129,7 @@
           "id": "B1",
           "a": "KOR",
           "b": "TPE",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -137,7 +137,7 @@
           "id": "B2",
           "a": "KOR",
           "b": "HKG",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -145,7 +145,7 @@
           "id": "B3",
           "a": "KOR",
           "b": "IND",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -153,7 +153,7 @@
           "id": "B4",
           "a": "TPE",
           "b": "HKG",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -161,7 +161,7 @@
           "id": "B5",
           "a": "TPE",
           "b": "IND",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         },
@@ -169,7 +169,7 @@
           "id": "B6",
           "a": "HKG",
           "b": "IND",
-          "format": "Bo3",
+          "format": "Bo1",
           "scoreA": null,
           "scoreB": null
         }
