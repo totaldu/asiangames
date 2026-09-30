@@ -154,24 +154,24 @@
           "a": "HKG",
           "b": "TPE",
           "format": "Bo1",
-          "scoreA": null,
-          "scoreB": null
+          "scoreA": 0,
+          "scoreB": 1
         },
         {
           "id": "B5",
           "a": "IND",
           "b": "TPE",
           "format": "Bo1",
-          "scoreA": null,
-          "scoreB": null
+          "scoreA": 0,
+          "scoreB": 1
         },
         {
           "id": "B6",
           "a": "HKG",
           "b": "KOR",
           "format": "Bo1",
-          "scoreA": null,
-          "scoreB": null
+          "scoreA": 0,
+          "scoreB": 1
         }
       ]
     }
@@ -180,8 +180,8 @@
     "matches": [
       {
         "id": "SF1",
-        "a": null,
-        "b": null,
+        "a": "VIE",
+        "b": "TPE",
         "format": "Bo3",
         "prev": {
           "a": "A:1",
@@ -193,8 +193,8 @@
       },
       {
         "id": "SF2",
-        "a": null,
-        "b": null,
+        "a": "KOR",
+        "b": "SAU",
         "format": "Bo3",
         "prev": {
           "a": "B:1",
