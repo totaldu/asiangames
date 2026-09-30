@@ -146,8 +146,8 @@
           "a": "IND",
           "b": "KOR",
           "format": "Bo1",
-          "scoreA": null,
-          "scoreB": null
+          "scoreA": 0,
+          "scoreB": 1
         },
         {
           "id": "B4",
