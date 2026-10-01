@@ -200,14 +200,14 @@
           "a": "B:1",
           "b": "A:2"
         },
-        "winner": KOR,
+        "winner": "KOR",
         "scoreA": 2,
         "scoreB": 0
       },
       {
         "id": "FINAL",
-        "a": TPE,
-        "b": KOR,
+        "a": "TPE",
+        "b": "KOR",
         "format": "Bo5",
         "prev": {
           "a": "SF1:W",
